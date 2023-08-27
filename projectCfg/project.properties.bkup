@@ -1,0 +1,39 @@
+#Project Attributes.
+#TunerStudio by EFI Analytics, Inc
+#Last Saved on: Sun Aug 06 23:24:01 EDT 2023
+#Sun Aug 06 23:24:01 EDT 2023
+Triggers.ActiveTriggers=TriggeredPage0 Refresh\:  vssRefresh > 0 |
+commPort=COM8
+canId=-1
+ecuSettings=AFR|CAN_COMMANDS_OFF|FAHRENHEIT|enablehardware_test_OFF|resetcontrol_standard|
+CommSettingDESKTOP-S7UPU90CommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+selectedComDriver=Multi Interface MegaSquirt Driver
+triggerSettingsTrigger\ Settings_Y=260
+triggerSettingsTrigger\ Settings_X=760
+projectDescription=
+CommSettingDESKTOP-S7UPU90CommDriver.RS232\ Serial\ InterfaceCom\ Port=COM8
+injCharsInjector\ Characteristics_width=397
+projectName=DaytonaV2
+injector_timing_curve_Set\ X\ Axis\ Minimum=0.0
+CommSettingCom\ Port=COM1
+injCharsInjector\ Characteristics_height=681
+engine_constantsEngine\ Constants_height=625
+ecuConfigFile=mainController.ini
+CommSettingBaud\ Rate=115200
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+CommSettingMSCommDriver.controllerInterfaceId=RS232 Serial Interface
+injCharsInjector\ Characteristics_Y=200
+engine_constantsEngine\ Constants_width=594
+injCharsInjector\ Characteristics_X=761
+triggerSettingsTrigger\ Settings_height=560
+useCommonTuneViewDir=false
+useCommonDashboardDir=false
+dashBoardFile=\\dashboard\\\\dashboard.dash
+CommSettingDESKTOP-S7UPU90CommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=COM8
+CommSettingDESKTOP-S7UPU90CommDriver.controllerInterfaceId=RS232 Serial Interface
+engine_constantsEngine\ Constants_Y=228
+engine_constantsEngine\ Constants_X=663
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+baudRate=115200
+triggerSettingsTrigger\ Settings_width=399
